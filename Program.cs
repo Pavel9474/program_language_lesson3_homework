@@ -1,10 +1,5 @@
 ﻿// Напишите программу, которая принимает на вход 
 //пятизначное число и проверяет, является ли оно палиндромом.
-// double GetNumber(string name)
-// {
-//     Console.WriteLine("Введите координату " + name);
-//     return Convert.ToDouble(Console.ReadLine());
-// }
 int GetNumber()
 {
    Console.WriteLine("Введите пятизначное число:");
